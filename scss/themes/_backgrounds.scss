@@ -1,0 +1,35 @@
+.rain {
+  background-color: $background-color;
+  background-image: url("../img/rain.jpg");
+  /*  background-position: center; */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.snow {
+  background-color: $background-color;
+  background-image: url("../img/snow.jpg");
+  /*  background-position: center; */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.fog {
+  background-color: $fog-color;
+  background-image: url("../img/fog.jpg");
+  /*  background-position: center; */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.night {
+  background-color: $night-color;
+  background-image: url("../img/night.jpg");
+  /*  background-position: center; */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.clouds {
+  background-color: $background-color;
+  background-image: url("../img/clouds.jpg");
+  /*  background-position: center; */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
